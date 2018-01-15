@@ -1,5 +1,6 @@
 ## 今回はテスト用に変更したファイルの一覧また、変更箇所
 + README.md
++ basic-network/docker-config.yml
 
 ## Hyperledger Fabric Samples
 
